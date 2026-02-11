@@ -38,7 +38,7 @@ module.exports = {
   // [OPTIONAL] The footer component of your website. You can write HTML here, but you need to escape double
   // quotes - changing " to \". You can write anything here, and if you like badges, generate some with https://shields.io
   footer:
-    'Powered by OneDrive. © MineBlock 保留所有权利',
+    '使用 onedrive-vercel-index 制作 | © MineBlock 保留所有权利 | 本站并非 Minecraft 官方网站，与 Mojang 和微软亦无从属关系。',
 
   // [OPTIONAL] This is where you specify the folders that are password protected. It is an array of paths pointing to all
   // the directories in which you have .password set. Check the documentation for details.
@@ -56,7 +56,7 @@ module.exports = {
       link: 'https://www.mineblock.cc',
     },
     {
-      name: '玩家QQ群',
+      name: 'QQ群',
       link: 'https://jq.qq.com/?_wv=1027&k=edTwf1ps',
     },
   ],
